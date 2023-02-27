@@ -1,4 +1,4 @@
-// (☞ﾟ∀ﾟ)☞ static32
+// (☞ﾟ∀ﾟ)☞ static31
 if( window._cgen ) {
 _cgen.set_cookie('_jsuid', '3687748834');
 _cgen.advanced();
