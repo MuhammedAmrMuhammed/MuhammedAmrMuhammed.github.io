@@ -332,7 +332,7 @@
     width:104px;
     height:104px;
     border-radius:50px;
-    background:#FFF url(https://www.gstatic.com/images/branding/product/2x/translate_24dp.png) 50% 50% no-repeat;
+    background:#FFF url(https://www.gstatic.com/images/branding/product/2x/tr   anslate_24dp.png) 50% 50% no-repeat;
     -webkit-transition:all .6s ease-in-out;
     transition:all .6s ease-in-out;
     -webkit-transform:scale(.4);
